@@ -1,1 +1,1 @@
-# JS_NFT_Assessment
+This is my submission for JS NFT project in Blockchain
